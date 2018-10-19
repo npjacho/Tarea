@@ -1,0 +1,5 @@
+paradigma:
+Como paradigma denominamos todo aquel modelo, patrón o ejemplo que debe seguirse en determinada situación. 
+paradigma orientado a objetos:
+Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución de un programa
+y cómo deben de estructurarse y organizarse las tareas que se llevaran a cabo en esa ejecución.
