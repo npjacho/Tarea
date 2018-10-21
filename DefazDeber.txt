@@ -1,0 +1,17 @@
+Un Paradigma constituye no un simple
+modelo, a modo de "copia", "patrón" o "muestra" de algo que es
+real, sino, mucho más que eso: un paradigma es un modelo ejemplar,
+es decir, perfecto de tal modo que se ha de considerar digno de
+ser seguido e imitado.[1]
+
+Paradigma orientada a objetos:
+Metodología de desarrollo de aplicaciones en la cual éstas se
+organizan como colecciones cooperativas de objetos, cada uno
+de los cuales representan una instancia de alguna clase, y
+cuyas clases son miembros de jerarquías de clases unidas
+mediante relaciones de herencia.[2]
+
+Bibliografia
+[1] ver Ferrater,1994 revistas.upel.edu.
+[2] Grady Booch,1955 https://rua.ua.es/dspace/bitstream/10045/15993/1/POO-1-Intro-10-11.pdf
+
