@@ -1,0 +1,7 @@
+Los lenguajes de programación proporcionan mecanismos para implementar una filosofía o paradigma de programación. Un paradigma es una forma de entender y 
+representar la realidad: un conjunto de teorías, estándares y métodos que, juntos, representan un modo de organizar el pensamiento, es decir, un modo de ver
+el mundo. Cada nuevo paradigma responde a una necesidad real de nuevas formas de afrontar problemas. A menudo un nuevo paradigma es creado como respuesta a
+las deficiencias de paradigmas anteriores.
+
+Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución de un programa y cómo deben de estructurarse y organizarse las 
+tareas que se llevaran a cabo en esa ejecución.A continuación describimos dos de los principales paradigmas.

@@ -1,3 +1,11 @@
-Escriba ¿ que es un paradigma en programación orientada a objetos ?
+﻿Escriba ¿ que es un paradigma en programación orientada a objetos ?
 
 Un paradigma de programación se refiere a la forma en que un programador o un conjunto de programadores dan solución a uno o varios problemas claramente definidos, en este sentido representa una manera particular de ofrecer soluciones.
+
+
+
+
+
+Compañero aparte de tu consulta podemos aumentar un poco mas de informacion cabe recalcar que unparadigma de programación es una forma de conceptualizar 
+en qué consiste la ejecución de un programa y cómo deben de estructurarse y organizarse las tareas que se llevaran a cabo en esa ejecución.
+A continuación describimos dos de los principales paradigmas.
