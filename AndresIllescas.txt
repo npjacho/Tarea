@@ -9,3 +9,4 @@ Un paradigma de programación se refiere a la forma en que un programador o un c
 Compañero aparte de tu consulta podemos aumentar un poco mas de informacion cabe recalcar que unparadigma de programación es una forma de conceptualizar 
 en qué consiste la ejecución de un programa y cómo deben de estructurarse y organizarse las tareas que se llevaran a cabo en esa ejecución.
 A continuación describimos dos de los principales paradigmas.
+buena definicion :v
