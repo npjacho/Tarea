@@ -3,3 +3,14 @@ Como paradigma denominamos todo aquel modelo, patrón o ejemplo que debe seguirse
 paradigma orientado a objetos:
 Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución de un programa
 y cómo deben de estructurarse y organizarse las tareas que se llevaran a cabo en esa ejecución.
+
+
+El Paradigma Orientado a Objetos-Luis Quishpe- xD
+El paradigma orientado a objetos (OO) define los programas en términos de comunidades de objetos. 
+Los objetos con características comunes se agrupan en clases (un concepto similar al de tipo abstracto de dato (TAD)). 
+Los objetos son entidades que combinan un estado (es decir, datos) y un comportamiento (esto es, procedimientos o métodos). 
+Estos objetos se comunican entre ellos para realizar tareas. Es en este modo de ver un programa donde este paradigma difiere 
+del paradigma imperativo o estructurado, en los que los datos y los métodos están separados y sin relación. 
+El paradigma OO surge para solventar los problemas que planteaban otros paradigmas, como el imperativo, con el objeto de elaborar
+ programas y módulos más fáciles de escribir, mantener y reutilizar. Entre los lenguajes que soportan el paradigma OO 
+están Smalltalk, C++, Delphi (Object Pascal), Java y C#.
