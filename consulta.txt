@@ -21,3 +21,5 @@ El paradigma OO surge para solventar los problemas que planteaban otros
 paradigmas, como el imperativo, con el objeto de elaborar 
 programas y módulos más fáciles de escribir, mantener y reutilizar. 
 Entre los lenguajes que soportan el paradigma OO están Smalltalk, C++, Delphi (Object Pascal), Java y C#.
+
+El paradigma orientado a objetos fue inventado por Kristen Nygaard y Ole-Johan Dahl en los años 60, creando el lenguaje Simula, concibiendo a un objeto como una componente autocontenida (con una estructura de datos asociada, y unos procedimientos propios, o métodos) en un sistema. Estas componentes se combinan para crear un sistema completo.

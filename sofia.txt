@@ -1,0 +1,9 @@
+PARADIGMA
+Paradigma proviene del griego paradima (que significa ejemplo o, mejor aún, modelo o patrón); originalmente, Platón utilizó esta expresión para designar un instrumento de mediación entre la realidad y su ideación. En efecto, como lo expone Vasallo(1977), uno de los problemas que transita toda la obra de Platón es el que se refiere a la relación entre el Mundo Inteligible o Mundo delas Ideas y el Mundo Sensible o Mundo de las Cosas; sostiene Vassallo  que :Estas ideas, estas formas o esencias reales constituyen un mundo "inteligible", es decir, sólo accesible a la razón, al "logos"; mundo inteligible que no sólo es exterior al sujeto cognoscente, sino que existe "separado “también del mundo de las cosas sensibles, trascendente a ellas y por sí subsistente. [1]
+PARADIGMA ORIENTADO A OBJETOS
+Metodología de desarrollo de aplicaciones en la cual éstas se organizan como colecciones cooperativas de objetos, cada uno de los cuales representan una instancia de alguna clase, y cuyas clases son miembros de jerarquías de clases unidas mediante relaciones de herencia.
+POO se ha convertido durante las pasadas dos décadas en el paradigma de programación dominante, y en una herramienta para resolver la llamada crisis del software
+El paradigma orientado a objetos, cambia el concepto de dato (pasivo) por el de objeto (activo). Cada objeto es una especie de máquina funcional cerrada con unos pocos interruptores y diales bien definidos. Favorece la claridad y la estructuración: facilitan la auto documentación de programas. Los mecanismos de encapsulación facilitan la comprensión del programa y permite, por ejemplo, la generación automática de documentación. [2]
+BIBLIOGRAFIA
+[1]González. ¿QUÉ ES UN PARADIGMA? ANÁLISIS TEÓRICO, CONCEPTUALY PSICOLINGÜÍSTICO DEL TÉRMINO.vol.20.pag 19 noviembre,2005.
+[2]Cachero.C; Ponce INTRODUCCIÓN AL PARADIGMAORIENTADO A OBJETOS,pag12-13.
