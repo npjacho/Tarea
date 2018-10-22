@@ -5,3 +5,9 @@ las deficiencias de paradigmas anteriores.
 
 Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución de un programa y cómo deben de estructurarse y organizarse las 
 tareas que se llevaran a cabo en esa ejecución.A continuación describimos dos de los principales paradigmas.
+
+
+
+tambien el paradigma orientado a objetos es: 
+Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución de un programa
+y cómo deben de estructurarse y organizarse las tareas que se llevaran a cabo en esa ejecución.
