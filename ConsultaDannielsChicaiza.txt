@@ -1,0 +1,31 @@
+Trabajo de Programación Orientada a objetos
+Nombre: Daniel Isaias Chicaiza Chisaguano 
+Curso: 2 Electronica “B”
+Fecha: 19/10/2018
+
+Que es un Paradigma
+
+Es ejemplo o modelo, es empleado para indicar un patrón, modelo, ejemplo o arquetipo. Alude aquellos aspectos relevantes de una situación que pueden ser tomados como un ejemplo, inclusive, la etimología de la palabra nos indica que esta puede ser sinónimo de Ejemplo, sin embargo, Paradigma es usado en otro tipo de contextos no tan simples como los usados con la palabra Ejemplo. Lo curioso de este término es su procedencia, pues de ahí es que se toma la idea que un paradigma no es más que un conjunto de acciones que seguir o ejecutar para concluir con un bien común o de fortaleza social. Derivada de la filosofía griega, fue Platón quien le dio la forma de “Ejemplo a seguir” y no como simple ejemplo como se cree al usarla en un contexto sin ningún tipo de aspiración.
+
+Esto nos da a entender que la palabra Paradigma es usada para denotar aquellos actos los cuales son la mejor referencia para un camino a seguir, una buena educación con valores morales genuinos y dignos de la aceptación de los maestros, no es más que un paradigma social para la integración de alguien notable. Por lo general, cumplir con los paradigmas impuestos por una sociedad indica la superación de las expectativas del grupo, como consecuencia se procede a promociones o cadenas de ascendencia. Organizaciones de lucro activo como una empresa, usan ejemplos paradigmáticos para que sus empleados fortalezcan el valor de la misma y así poder optar por un puesto de más rango y prestigio en el orden colocado.
+
+La ciencia aplica los paradigmas desde otro punto de vista más práctico, orientados al descubrimiento de nuevos caminos de investigación, la constante persecución de datos que colaboren con la resolución de sus problemas, suponen un paradigma científico, el cual con métodos de investigación y deducción serán comprendidos y resueltos. Los paradigmas trazan líneas a seguir en cualquier campo en el que se aplique el termino, pues, a pesar de no ser clásico para ser usado en cada caso, no deja de ser genérico, por lo que puede ser empleado ante cualquier situación en la que se amerite un buen ejemplo que seguir en las acciones cualesquiera que sean que se realicen.
+
+En las ciencias sociales, paradigma se describe como el conjunto de experiencias, creencias y valores que determinan la forma en la cual el individuo ve e interpreta la realidad, su realidad; y la forma en que responden a esa percepción. Es un patrón o modelo de conducta heredada o aprendida. Muchas veces hablamos de romper paradigmas, de algo que está establecido. Generalmente, los paradigmas personales se llevan como dogmas: algunos son herencia recibida de nuestros padres. Son creencias que nos mantienen atrapados y no nos permiten ver otras posibilidades, convirtiéndose a veces en obstáculos que nos impiden avanzar y conseguir la ruta del éxito.
+
+Es preciso romper, desterrar y superar estos paradigmas, de modo que se pueda asumir una mentalidad y actitud positiva y, como consecuencia de ello cambiar y crecer.
+
+Explique el paradigma orientado a objetos
+
+Un paradigma en programación orientada a objetos es una forma de entender y representar la realidad: un conjunto de teorías, estándares y métodos que, juntos, representan un modo de organizar el pensamiento, es decir, un modo de ver el mundo. Cada nuevo paradigma responde a una necesidad real de nuevas formas de afrontar problemas. A menudo un nuevo paradigma es creado como respuesta a las deficiencias de paradigmas anteriores.
+
+
+Un paradigma de programación es una forma de conceptualizar en qué consiste la ejecución de un programa y cómo deben de estructurarse y organizarse las tareas que se llevaran a cabo en esa ejecución. Existen dos principales paradigmas.
+Paradigma imperativo
+
+La programación imperativa es un paradigma de programación que describe la programación en términos del estado del programa y sentencias que cambian dicho estado. Los programas imperativos son un conjunto de instrucciones que le indican a la computadora cómo realizar una tarea. Las recetas, por ejemplo, son conceptos familiares similares en estilo a la programación imperativa; cada paso es una instrucción, y el mundo físico (la computadora en el caso de la programación) guarda el estado.
+
+La mayoría de los lenguajes imperativos de alto nivel incorporan cuatro tipos básicos de sentencias: asignaciones, ciclos, ramificaciones condicionales, y ramificaciones incondicionales. La programación estructurada se convirtió en los años setenta en la forma de programar más extendida. Ejemplos de lenguajes de programación estructurados son C, Pascal y Ada.
+Paradigma Orientado a Objetos
+
+El paradigma orientado a objetos (OO) define los programas en términos de comunidades de objetos. Los objetos con características comunes se agrupan en clases (un concepto similar al de tipo abstracto de dato (TAD)). Los objetos son entidades que combinan un estado (es decir, datos) y un comportamiento (esto es, procedimientos o métodos). Estos objetos se comunican entre ellos para realizar tareas. Es en este modo de ver un programa donde este paradigma difiere del paradigma imperativo o estructurado, en los que los datos y los métodos están separados y sin relación. El paradigma OO surge para solventar los problemas que planteaban otros paradigmas, como el imperativo, con el objeto de elaborar programas y módulos más fáciles de escribir, mantener y reutilizar. Entre los lenguajes que soportan el paradigma OO están Smalltalk, C++, Delphi (Object Pascal), Java y C#.
