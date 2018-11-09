@@ -1,0 +1,18 @@
+Paradigmas de programación
+Un paradigma de programación es una propuesta tecnológica adoptada 
+por una comunidad de programadores y desarrolladores cuyo núcleo central 
+es incuestionable en cuanto que únicamente trata de resolver uno o varios 
+problemas claramente delimitados; la resolución de estos problemas debe suponer 
+consecuentemente un avance significativo en al menos un parámetro que afecte a 
+la ingeniería de software.
+Por eso es mucho más importante antes de escribir código 2 cosas:
+1 Conocer el problema lo mejor posible
+2 Conocer los modelos/metodologías/técnicas/patrones que podemos aplicar.
+
+De nada sirve que tu código compile y en algunas casos que solucione 
+el problema si es que otro paradigma podría resolverlo de mejor modo 
+o evitarte horas de trabajos extras y sin sentido, esa es la razón 
+más importante para conocer los paradigmas, muchos desarrolladores 
+descubren que están abordando un problema de forma equivocada ya 
+casi al terminar la solución y eso puede ser un golpe duro para el
+proyecto y para el desarrollador.
